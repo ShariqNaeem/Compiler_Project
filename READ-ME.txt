@@ -1,0 +1,3 @@
+In this Project, we generated tokens from user-input codes which is called Laxical Analyzer.
+after that we checked the syntax of that codes by using tokens which is called Syntax analyzer.
+And little bit worked on semantic analyzer.

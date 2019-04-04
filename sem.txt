@@ -1,0 +1,2 @@
+class point{}
+final class point1 extends point{}

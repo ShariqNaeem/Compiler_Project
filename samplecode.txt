@@ -1,0 +1,68 @@
+int a=89.90e-10?
+int a = a+b+c/d&&b.ad(dh).a[d]?
+A a=new a()?
+Point a?
+
+A fn(int[] a,A b){
+
+}
+
+static ABC fn(){
+this.a=r?
+}
+
+final void a(int a, Point b)
+{
+Point p=new Point()?
+int A?
+for(??)
+a.b[4].fn().a.c++?
+point p?
+
+++a.f().d.a[i]?
+super.a[i]=10?
+}
+
+
+class A{
+
+int a?
+int[] a=new int[]?
+
+
+public A(){
+a=b.c+this.a-fn[5]/4&&a!=54.54||a<4?
+##super()?
+this.g.b[a-b]=super.r[10]?
+A  a = new A(a.b.fn().v,)?
+}
+
+
+abstract int s(){
+this.a=6?
+
+}
+
+}
+
+int a?
+
+class sd{
+}
+
+void main(){
+
+}
+
+
+#*class geeks{
+
+public string a?
+a.name="SHARIQ"?
+
+}
+*#
+
+##++a.a[i].a.a.b(a[a],7)
+##b.c+this.a-fn[5]/4&&a!=54.54||a<4
+##a.a[a].a[s]=b.c+a.a-fn[5]/4&&a!=54.54||a<4?
